@@ -4,7 +4,7 @@ title = "sbite-blog"
 theme = "ananke"
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "hugo --theme=dimension  --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.68.3"
