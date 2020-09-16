@@ -1,4 +1,4 @@
-baseURL = "sbite-blog.netlify.app"
+baseURL = "https://sbite-blog.netlify.app"
 languageCode = "ja"
 title = "sbite-blog"
 theme = "ananke"
